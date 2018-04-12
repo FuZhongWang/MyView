@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="basicColor" format="color"/>
+    <attr name="refreshColor" format="color"/>
+    <attr name="radius" format="dimension"/>
+    <attr name="speed" format="integer"/>
+    <attr name="stepNum" format="integer"/>
+    <declare-styleable name="refreshBar">
+        <attr name="stepNum"/>
+        <attr name="radius"/>
+        <attr name="speed"/>
+        <attr name="basicColor"/>
+        <attr name="refreshColor" />
+    </declare-styleable>
+</resources>
